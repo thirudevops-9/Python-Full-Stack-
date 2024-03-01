@@ -1,0 +1,25 @@
+td{
+  height:150px;
+  width: 150px;
+  text-align: center;
+  border: 5px solid white;
+  font-size: 100px;
+}
+
+body {
+  background-color: #011627;
+  color: #FDFFFE;
+  text-align: center;
+
+}
+
+form {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+#sub{
+  background-color: #11ffeeff;
+  font-size: 1em;
+  border-radius: 10px;
+
+}
